@@ -1,5 +1,3 @@
-#from time import sleep
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -7,8 +5,6 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-
-#from webdriver_manager.chrome import ChromeDriverManager
 
 opts = Options()
 opts.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36")
@@ -41,14 +37,50 @@ try:
     
     # Esperar y hacer clic en "Ver todos los comentarios"
     try:
-        all_comments_button = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.CSS_SELECTOR, "button[data-testid='fr-read-all-reviews']"))
-        )
-        all_comments_button.click()
-        print("Comentarios cargados con éxito")
-    except TimeoutException:
-        print("No se pudo encontrar el botón de todos los comentarios")
+    # Esperar a que la página se cargue completamente
+        WebDriverWait(driver, 10).until(
+            lambda d: d.execute_script("return document.readyState") == "complete"
+    )
     
+        # Intentar primero usando el selector data-testid
+        try:
+            all_comments_button = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.CSS_SELECTOR, "button[data-testid='fr-read-all-reviews']"))
+            )
+            driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", all_comments_button)
+            WebDriverWait(driver, 2).until(lambda d: True)  # Pequeña pausa para estabilizar
+            all_comments_button.click()
+            print("Comentarios cargados con éxito (usando data-testid)")
+        except:
+            # Si falla, intentar con el texto dentro del span
+            try:
+                all_comments_button = WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.XPATH, "//span[contains(text(), 'Leer todos los comentarios')]/parent::button"))
+                )
+                driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", all_comments_button)
+                WebDriverWait(driver, 2).until(lambda d: True)  # Pequeña pausa para estabilizar
+                all_comments_button.click()
+                print("Comentarios cargados con éxito (usando texto del span)")
+            except:
+                # Si aún falla, intentar con JavaScript directamente
+                try:
+                    driver.execute_script("""
+                        var buttons = document.querySelectorAll('button');
+                        for (var i = 0; i < buttons.length; i++) {
+                            if (buttons[i].innerText.includes('Leer todos los comentarios')) {
+                                buttons[i].click();
+                                return true;
+                            }
+                        }
+                        return false;
+                    """)
+                    print("Comentarios cargados con éxito (usando JavaScript)")
+                except:
+                    print("No se pudo encontrar el botón de todos los comentarios")
+
+    except TimeoutException:
+            print("No se pudo encontrar el botón de todos los comentarios")
+
 except Exception as e:
     print(f"Se produjo un error: {e}")
 
@@ -56,12 +88,3 @@ finally:
     # Mantener el navegador abierto para verificar resultados
     input("Presiona Enter para cerrar el navegador...")
     driver.quit()
-
-#driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-#time.sleep(3)  # Esperar un poco después del scroll
-    
-#allComments = WebDriverWait(driver, timeout= 10).until(
-    #EC.element_to_be_clickable(By.CSS_SELECTOR,"button[data-testid='fr-read-all-reviews']")
-#).click()
-
-#sleep(10)
