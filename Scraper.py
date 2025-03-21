@@ -74,3 +74,4 @@ except Exception as e:
 finally:
     input("Presiona Enter para cerrar el navegador...")
     driver.quit()
+
