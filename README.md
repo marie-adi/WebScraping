@@ -25,7 +25,7 @@ pip install selenium
 
 3. Descarga y configura **ChromeDriver**:
 
-- Descarga la versión compatible desde aquí
+- Descarga la versión compatible desde [aquí](https://sites.google.com/chromium.org/driver)
 - Guarda el ejecutable en la carpeta del proyecto o configura su PATH
 
 ## 🔧 Uso
