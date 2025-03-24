@@ -9,7 +9,6 @@ Este proyecto utiliza **Selenium** para automatizar la navegación en la página
 - 🐍 **Python** (Automatización y manejo de datos)
 - 🌐 **Selenium** (Automatización del navegador)
 - 🏎 **Google Chrome** + **ChromeDriver** (Ejecución del navegador)
-- 📄 **JSON** y **TXT** (Almacenamiento de resultados)
 
 ## 📦 Instalación
 
@@ -46,9 +45,9 @@ El script:
 
 ## 📂 Archivos generados
 
-- ``: Lista de hoteles en texto plano.
+- ``: Lista de hoteles en texto plano. **TXT**
 
-- ``: Lista de hoteles en formato JSON.
+- ``: Lista de hoteles en formato **JSON**.
 
 ## ⚠️ Consideraciones
 
