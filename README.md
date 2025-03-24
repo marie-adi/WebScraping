@@ -37,9 +37,11 @@ El script:
 
 - Abre **Booking.com** y realiza una búsqueda específica.
 
-- Rechaza cookies (si es necesario).
+- Rechaza cookies.
 
-- Hace scroll y carga todos los resultados disponibles.
+- Hace scroll cargando todos los resultados disponibles.
+  
+- Hace click en el boton **cargar mas** para llegar a toda la lista de hoteles.
 
 - Extrae los nombres de los hoteles y los guarda en hoteles.txt y hoteles.json.
 
