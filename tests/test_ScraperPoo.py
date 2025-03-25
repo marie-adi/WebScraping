@@ -1,6 +1,7 @@
 import unittest
 from unittest.mock import patch, MagicMock
-from ScraperPoo.py import HotelScraper
+from ScraperPoo import HotelScraper
+from selenium.webdriver.common.by import By
 
 class TestHotelScraper(unittest.TestCase):
 
