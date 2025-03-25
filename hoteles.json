@@ -1,0 +1,1707 @@
+[
+    {
+        "original_name": "A Room In The City Hostel",
+        "cleaned_name": "a room in the city hostel",
+        "name_length": 25
+    },
+    {
+        "original_name": "abba Apartments Playa de Gros San Sebastián",
+        "cleaned_name": "abba apartments playa de gros san sebastian",
+        "name_length": 43
+    },
+    {
+        "original_name": "Abba San Sebastián Hotel",
+        "cleaned_name": "abba san sebastian hotel",
+        "name_length": 24
+    },
+    {
+        "original_name": "Acogedor apartamento frente a la Playa Zurriola en San Sebastián",
+        "cleaned_name": "acogedor apartamento frente a la playa zurriola en san sebastian",
+        "name_length": 64
+    },
+    {
+        "original_name": "Acogedor y precioso apartamento + parking privado",
+        "cleaned_name": "acogedor y precioso apartamento  parking privado",
+        "name_length": 48
+    },
+    {
+        "original_name": "Akelarre - Relais & Châteaux",
+        "cleaned_name": "akelarre  relais  chateaux",
+        "name_length": 26
+    },
+    {
+        "original_name": "Aldamar",
+        "cleaned_name": "aldamar",
+        "name_length": 7
+    },
+    {
+        "original_name": "Alderdi Eder by People Rentals",
+        "cleaned_name": "alderdi eder by people rentals",
+        "name_length": 30
+    },
+    {
+        "original_name": "Always Easy I Alameda",
+        "cleaned_name": "always easy i alameda",
+        "name_length": 21
+    },
+    {
+        "original_name": "Always Easy I Apata",
+        "cleaned_name": "always easy i apata",
+        "name_length": 19
+    },
+    {
+        "original_name": "Always Easy I Arroka",
+        "cleaned_name": "always easy i arroka",
+        "name_length": 20
+    },
+    {
+        "original_name": "Always Easy I Ático Plaza",
+        "cleaned_name": "always easy i atico plaza",
+        "name_length": 25
+    },
+    {
+        "original_name": "Always Easy I Bellas Artes",
+        "cleaned_name": "always easy i bellas artes",
+        "name_length": 26
+    },
+    {
+        "original_name": "Always Easy I Bermingham",
+        "cleaned_name": "always easy i bermingham",
+        "name_length": 24
+    },
+    {
+        "original_name": "Always Easy I Bidea",
+        "cleaned_name": "always easy i bidea",
+        "name_length": 19
+    },
+    {
+        "original_name": "Always Easy I Carquizano",
+        "cleaned_name": "always easy i carquizano",
+        "name_length": 24
+    },
+    {
+        "original_name": "Always Easy I Catedral",
+        "cleaned_name": "always easy i catedral",
+        "name_length": 22
+    },
+    {
+        "original_name": "Always Easy I Chillida",
+        "cleaned_name": "always easy i chillida",
+        "name_length": 22
+    },
+    {
+        "original_name": "Always Easy I Kursaal",
+        "cleaned_name": "always easy i kursaal",
+        "name_length": 21
+    },
+    {
+        "original_name": "Always Easy I Sagues",
+        "cleaned_name": "always easy i sagues",
+        "name_length": 20
+    },
+    {
+        "original_name": "Always Easy I San Francisco",
+        "cleaned_name": "always easy i san francisco",
+        "name_length": 27
+    },
+    {
+        "original_name": "Always Easy I Secundino Esnaola",
+        "cleaned_name": "always easy i secundino esnaola",
+        "name_length": 31
+    },
+    {
+        "original_name": "Amara Prime San Sebastian",
+        "cleaned_name": "amara prime san sebastian",
+        "name_length": 25
+    },
+    {
+        "original_name": "Amazing Villa in San Sebastián by SanSe Holidays",
+        "cleaned_name": "amazing villa in san sebastian by sanse holidays",
+        "name_length": 48
+    },
+    {
+        "original_name": "Ambrosse by FeelFree Rentals",
+        "cleaned_name": "ambrosse by feelfree rentals",
+        "name_length": 28
+    },
+    {
+        "original_name": "AMELIA by SWEET HOME SAN SEBASTIAN",
+        "cleaned_name": "amelia by sweet home san sebastian",
+        "name_length": 34
+    },
+    {
+        "original_name": "Amplio apartamento en Gros con parking privado",
+        "cleaned_name": "amplio apartamento en gros con parking privado",
+        "name_length": 46
+    },
+    {
+        "original_name": "Apartamento a 100 metros de la playa Zurriola",
+        "cleaned_name": "apartamento a 100 metros de la playa zurriola",
+        "name_length": 45
+    },
+    {
+        "original_name": "Apartamento a 5min de la playa de Ondarreta",
+        "cleaned_name": "apartamento a 5min de la playa de ondarreta",
+        "name_length": 43
+    },
+    {
+        "original_name": "Apartamento Aldako by SanSe Holidays",
+        "cleaned_name": "apartamento aldako by sanse holidays",
+        "name_length": 36
+    },
+    {
+        "original_name": "Apartamento Avenida by SanSe Holidays",
+        "cleaned_name": "apartamento avenida by sanse holidays",
+        "name_length": 37
+    },
+    {
+        "original_name": "Apartamento Bost by SanSe Holidays",
+        "cleaned_name": "apartamento bost by sanse holidays",
+        "name_length": 34
+    },
+    {
+        "original_name": "Apartamento Brian",
+        "cleaned_name": "apartamento brian",
+        "name_length": 17
+    },
+    {
+        "original_name": "APARTAMENTO CENTRICO JUNTO ESTACION TREN Y AUTOBUS",
+        "cleaned_name": "apartamento centrico junto estacion tren y autobus",
+        "name_length": 50
+    },
+    {
+        "original_name": "Apartamento Céntrico San Sebastián",
+        "cleaned_name": "apartamento centrico san sebastian",
+        "name_length": 34
+    },
+    {
+        "original_name": "Apartamento con garaje gratis en Gros, Donostia-San Sebastian",
+        "cleaned_name": "apartamento con garaje gratis en gros donostiasan sebastian",
+        "name_length": 59
+    },
+    {
+        "original_name": "Apartamento con Parking a 15 de la playa",
+        "cleaned_name": "apartamento con parking a 15 de la playa",
+        "name_length": 40
+    },
+    {
+        "original_name": "Apartamento con parking privado cerca de Zurriola",
+        "cleaned_name": "apartamento con parking privado cerca de zurriola",
+        "name_length": 49
+    },
+    {
+        "original_name": "Apartamento con vistas a la playa de la Concha en Donostia-San Sebastián - Marina 1",
+        "cleaned_name": "apartamento con vistas a la playa de la concha en donostiasan sebastian  marina 1",
+        "name_length": 81
+    },
+    {
+        "original_name": "Apartamento en el corazón de la ciudad con parkin",
+        "cleaned_name": "apartamento en el corazon de la ciudad con parkin",
+        "name_length": 49
+    },
+    {
+        "original_name": "Apartamento familiar reformado en Amara, Estadio Anoeta, Donostia-San Sebastián",
+        "cleaned_name": "apartamento familiar reformado en amara estadio anoeta donostiasan sebastian",
+        "name_length": 76
+    },
+    {
+        "original_name": "Apartamento Kasa Tomas Gros",
+        "cleaned_name": "apartamento kasa tomas gros",
+        "name_length": 27
+    },
+    {
+        "original_name": "APARTAMENTO MENTURA Centro de San Sebastian Parking FREE",
+        "cleaned_name": "apartamento mentura centro de san sebastian parking free",
+        "name_length": 56
+    },
+    {
+        "original_name": "Apartamento Ondarreta",
+        "cleaned_name": "apartamento ondarreta",
+        "name_length": 21
+    },
+    {
+        "original_name": "Apartamento Oteiza",
+        "cleaned_name": "apartamento oteiza",
+        "name_length": 18
+    },
+    {
+        "original_name": "Apartamento Pavía by SanSe Holidays",
+        "cleaned_name": "apartamento pavia by sanse holidays",
+        "name_length": 35
+    },
+    {
+        "original_name": "Apartamento reformado junto a la playa de la Concha en Donostia-San Sebastián - Marina 4",
+        "cleaned_name": "apartamento reformado junto a la playa de la concha en donostiasan sebastian  marina 4",
+        "name_length": 86
+    },
+    {
+        "original_name": "APARTAMENTO ROMANTICO FREE PARKING AREA WIFi",
+        "cleaned_name": "apartamento romantico free parking area wifi",
+        "name_length": 44
+    },
+    {
+        "original_name": "Apartamento San Blas by SanSe Holidays",
+        "cleaned_name": "apartamento san blas by sanse holidays",
+        "name_length": 38
+    },
+    {
+        "original_name": "Apartamento Urbieta by SanSe Holidays - Center",
+        "cleaned_name": "apartamento urbieta by sanse holidays  center",
+        "name_length": 45
+    },
+    {
+        "original_name": "Apartamento Zurriola by SanSe Holidays",
+        "cleaned_name": "apartamento zurriola by sanse holidays",
+        "name_length": 38
+    },
+    {
+        "original_name": "Apartamentos Gran Vía by SanSe Holidays",
+        "cleaned_name": "apartamentos gran via by sanse holidays",
+        "name_length": 39
+    },
+    {
+        "original_name": "Apartamentos Mar y Mar Agroturismo",
+        "cleaned_name": "apartamentos mar y mar agroturismo",
+        "name_length": 34
+    },
+    {
+        "original_name": "Apartamentos Pillotegi parking gratuito",
+        "cleaned_name": "apartamentos pillotegi parking gratuito",
+        "name_length": 39
+    },
+    {
+        "original_name": "Apartamentos Salud by SanSe Holidays",
+        "cleaned_name": "apartamentos salud by sanse holidays",
+        "name_length": 36
+    },
+    {
+        "original_name": "Apple by People Rentals",
+        "cleaned_name": "apple by people rentals",
+        "name_length": 23
+    },
+    {
+        "original_name": "Arrasate 2 by FeelFree Rentals",
+        "cleaned_name": "arrasate 2 by feelfree rentals",
+        "name_length": 30
+    },
+    {
+        "original_name": "ARRASATE (new apartment in city center )",
+        "cleaned_name": "arrasate new apartment in city center ",
+        "name_length": 38
+    },
+    {
+        "original_name": "Arraun - Basque Stay",
+        "cleaned_name": "arraun  basque stay",
+        "name_length": 19
+    },
+    {
+        "original_name": "Arzak by FeelFree Rentals",
+        "cleaned_name": "arzak by feelfree rentals",
+        "name_length": 25
+    },
+    {
+        "original_name": "Astoria - baskeyrentals",
+        "cleaned_name": "astoria  baskeyrentals",
+        "name_length": 22
+    },
+    {
+        "original_name": "Aukera Apartment I by Basque Homes",
+        "cleaned_name": "aukera apartment i by basque homes",
+        "name_length": 34
+    },
+    {
+        "original_name": "Avenida Suite by FeelFree Rentals",
+        "cleaned_name": "avenida suite by feelfree rentals",
+        "name_length": 33
+    },
+    {
+        "original_name": "Axel Hotel San Sebastián - Adults Only",
+        "cleaned_name": "axel hotel san sebastian  adults only",
+        "name_length": 37
+    },
+    {
+        "original_name": "Azoka Suite by FeelFree Rentals",
+        "cleaned_name": "azoka suite by feelfree rentals",
+        "name_length": 31
+    },
+    {
+        "original_name": "Baga Biga by FeelFree Rentals",
+        "cleaned_name": "baga biga by feelfree rentals",
+        "name_length": 29
+    },
+    {
+        "original_name": "Balea",
+        "cleaned_name": "balea",
+        "name_length": 5
+    },
+    {
+        "original_name": "BALEA by SWEET HOME SAN SEBASTIAN",
+        "cleaned_name": "balea by sweet home san sebastian",
+        "name_length": 33
+    },
+    {
+        "original_name": "Balea Hostel",
+        "cleaned_name": "balea hostel",
+        "name_length": 12
+    },
+    {
+        "original_name": "Balmoral by Basque Homes",
+        "cleaned_name": "balmoral by basque homes",
+        "name_length": 24
+    },
+    {
+        "original_name": "Barandiaran by Basque Homes",
+        "cleaned_name": "barandiaran by basque homes",
+        "name_length": 27
+    },
+    {
+        "original_name": "Barceló Costa Vasca",
+        "cleaned_name": "barcelo costa vasca",
+        "name_length": 19
+    },
+    {
+        "original_name": "Beach & City - Neighbourhood of Gros",
+        "cleaned_name": "beach  city  neighbourhood of gros",
+        "name_length": 34
+    },
+    {
+        "original_name": "Beach Break Guesthouse",
+        "cleaned_name": "beach break guesthouse",
+        "name_length": 22
+    },
+    {
+        "original_name": "Beach House San Sebastian",
+        "cleaned_name": "beach house san sebastian",
+        "name_length": 25
+    },
+    {
+        "original_name": "Beautiful apartment with terrace - Prime location!",
+        "cleaned_name": "beautiful apartment with terrace  prime location",
+        "name_length": 48
+    },
+    {
+        "original_name": "Bell Tower with AC by Santiago",
+        "cleaned_name": "bell tower with ac by santiago",
+        "name_length": 30
+    },
+    {
+        "original_name": "Bella Easo - Iberorent Apartments",
+        "cleaned_name": "bella easo  iberorent apartments",
+        "name_length": 32
+    },
+    {
+        "original_name": "Bella Easo 2 by FeelFree Rentals",
+        "cleaned_name": "bella easo 2 by feelfree rentals",
+        "name_length": 32
+    },
+    {
+        "original_name": "Bella Easo 3 by FeelFree Rentals",
+        "cleaned_name": "bella easo 3 by feelfree rentals",
+        "name_length": 32
+    },
+    {
+        "original_name": "Bellavista Concha Beach - SSHousing",
+        "cleaned_name": "bellavista concha beach  sshousing",
+        "name_length": 34
+    },
+    {
+        "original_name": "Belle Époque Self-check-in Guesthouse - Adults-Only",
+        "cleaned_name": "belle epoque selfcheckin guesthouse  adultsonly",
+        "name_length": 47
+    },
+    {
+        "original_name": "Bengoetxea - Basque Stay",
+        "cleaned_name": "bengoetxea  basque stay",
+        "name_length": 23
+    },
+    {
+        "original_name": "Bidaia Boutique Hotel",
+        "cleaned_name": "bidaia boutique hotel",
+        "name_length": 21
+    },
+    {
+        "original_name": "Boulevard 26",
+        "cleaned_name": "boulevard 26",
+        "name_length": 12
+    },
+    {
+        "original_name": "Boulevart Donostia",
+        "cleaned_name": "boulevart donostia",
+        "name_length": 18
+    },
+    {
+        "original_name": "Boutique Hotel Mendi Argia",
+        "cleaned_name": "boutique hotel mendi argia",
+        "name_length": 26
+    },
+    {
+        "original_name": "Buen Pastor Cathedral - Iberorent Apartments",
+        "cleaned_name": "buen pastor cathedral  iberorent apartments",
+        "name_length": 43
+    },
+    {
+        "original_name": "Camping Igara de San Sebastian",
+        "cleaned_name": "camping igara de san sebastian",
+        "name_length": 30
+    },
+    {
+        "original_name": "Casa 17",
+        "cleaned_name": "casa 17",
+        "name_length": 7
+    },
+    {
+        "original_name": "Casa del Norte - quiet, cozy & fantastic location!",
+        "cleaned_name": "casa del norte  quiet cozy  fantastic location",
+        "name_length": 46
+    },
+    {
+        "original_name": "Casa Nicolasa",
+        "cleaned_name": "casa nicolasa",
+        "name_length": 13
+    },
+    {
+        "original_name": "Casual de las Olas San Sebastián",
+        "cleaned_name": "casual de las olas san sebastian",
+        "name_length": 32
+    },
+    {
+        "original_name": "Catalonia Donosti",
+        "cleaned_name": "catalonia donosti",
+        "name_length": 17
+    },
+    {
+        "original_name": "Centenario",
+        "cleaned_name": "centenario",
+        "name_length": 10
+    },
+    {
+        "original_name": "Central Luxury- SSHousing",
+        "cleaned_name": "central luxury sshousing",
+        "name_length": 24
+    },
+    {
+        "original_name": "CENTRAL NEAR SEA - by SanSebastianApartments·es",
+        "cleaned_name": "central near sea  by sansebastianapartmentses",
+        "name_length": 45
+    },
+    {
+        "original_name": "Central Roomss",
+        "cleaned_name": "central roomss",
+        "name_length": 14
+    },
+    {
+        "original_name": "Central, Spacious and Authentic Family Apartment",
+        "cleaned_name": "central spacious and authentic family apartment",
+        "name_length": 47
+    },
+    {
+        "original_name": "Chillida Larramendi - Iberorent Apartments",
+        "cleaned_name": "chillida larramendi  iberorent apartments",
+        "name_length": 41
+    },
+    {
+        "original_name": "Colectia Hotel Urumea",
+        "cleaned_name": "colectia hotel urumea",
+        "name_length": 21
+    },
+    {
+        "original_name": "Colo Colo Hostel - Single Private Beds",
+        "cleaned_name": "colo colo hostel  single private beds",
+        "name_length": 37
+    },
+    {
+        "original_name": "Cómodo apartamento en la Parte Vieja, Old Town",
+        "cleaned_name": "comodo apartamento en la parte vieja old town",
+        "name_length": 45
+    },
+    {
+        "original_name": "Concha Bay 3 by FeelFree Rentals",
+        "cleaned_name": "concha bay 3 by feelfree rentals",
+        "name_length": 32
+    },
+    {
+        "original_name": "CONCHA SUITE Brand NEW & Style",
+        "cleaned_name": "concha suite brand new  style",
+        "name_length": 29
+    },
+    {
+        "original_name": "Coqueto apartamento con garaje al lado de la playa",
+        "cleaned_name": "coqueto apartamento con garaje al lado de la playa",
+        "name_length": 50
+    },
+    {
+        "original_name": "Costa Getaria - Iberorent Apartments",
+        "cleaned_name": "costa getaria  iberorent apartments",
+        "name_length": 35
+    },
+    {
+        "original_name": "Cozy apartment in front of the beach",
+        "cleaned_name": "cozy apartment in front of the beach",
+        "name_length": 36
+    },
+    {
+        "original_name": "CR Luarri",
+        "cleaned_name": "cr luarri",
+        "name_length": 9
+    },
+    {
+        "original_name": "Dear Oldie Apartment by FeelFree Rentals",
+        "cleaned_name": "dear oldie apartment by feelfree rentals",
+        "name_length": 40
+    },
+    {
+        "original_name": "Domo by People Rentals",
+        "cleaned_name": "domo by people rentals",
+        "name_length": 22
+    },
+    {
+        "original_name": "Don Cecilio Guesthouse (Centro)",
+        "cleaned_name": "don cecilio guesthouse centro",
+        "name_length": 29
+    },
+    {
+        "original_name": "Don Cecilio Guesthouse (Parte Vieja)",
+        "cleaned_name": "don cecilio guesthouse parte vieja",
+        "name_length": 34
+    },
+    {
+        "original_name": "Donosti House Bi con Parking ESS2648",
+        "cleaned_name": "donosti house bi con parking ess2648",
+        "name_length": 36
+    },
+    {
+        "original_name": "Donosti House III con Parking ESS",
+        "cleaned_name": "donosti house iii con parking ess",
+        "name_length": 33
+    },
+    {
+        "original_name": "DONOSTIA ROOMS",
+        "cleaned_name": "donostia rooms",
+        "name_length": 14
+    },
+    {
+        "original_name": "Downtown River Hostel",
+        "cleaned_name": "downtown river hostel",
+        "name_length": 21
+    },
+    {
+        "original_name": "Duke by FeelFree Rentals",
+        "cleaned_name": "duke by feelfree rentals",
+        "name_length": 24
+    },
+    {
+        "original_name": "Easo Apt",
+        "cleaned_name": "easo apt",
+        "name_length": 8
+    },
+    {
+        "original_name": "Easo Suite 1 by FeelFree Rentals",
+        "cleaned_name": "easo suite 1 by feelfree rentals",
+        "name_length": 32
+    },
+    {
+        "original_name": "Easo Suite 18 by FeelFree Rentals",
+        "cleaned_name": "easo suite 18 by feelfree rentals",
+        "name_length": 33
+    },
+    {
+        "original_name": "Easo Suite 7 by FeelFree Rentals",
+        "cleaned_name": "easo suite 7 by feelfree rentals",
+        "name_length": 32
+    },
+    {
+        "original_name": "EDER 2 by Prim Home Rentals",
+        "cleaned_name": "eder 2 by prim home rentals",
+        "name_length": 27
+    },
+    {
+        "original_name": "Eguzki by FeelFree Rentals",
+        "cleaned_name": "eguzki by feelfree rentals",
+        "name_length": 26
+    },
+    {
+        "original_name": "Eider - Basque Stay",
+        "cleaned_name": "eider  basque stay",
+        "name_length": 18
+    },
+    {
+        "original_name": "Eider apartment by People Rentals",
+        "cleaned_name": "eider apartment by people rentals",
+        "name_length": 33
+    },
+    {
+        "original_name": "Elkano Room",
+        "cleaned_name": "elkano room",
+        "name_length": 11
+    },
+    {
+        "original_name": "Erregetxe by FeelFree Rentals",
+        "cleaned_name": "erregetxe by feelfree rentals",
+        "name_length": 29
+    },
+    {
+        "original_name": "Esnatuz - Basque Stay",
+        "cleaned_name": "esnatuz  basque stay",
+        "name_length": 20
+    },
+    {
+        "original_name": "Far Out Inn",
+        "cleaned_name": "far out inn",
+        "name_length": 11
+    },
+    {
+        "original_name": "FeelFree STAYS Antiguo",
+        "cleaned_name": "feelfree stays antiguo",
+        "name_length": 22
+    },
+    {
+        "original_name": "FELIPEIV,centrico,terraza,wifi,parking 20 euros night",
+        "cleaned_name": "felipeivcentricoterrazawifiparking 20 euros night",
+        "name_length": 49
+    },
+    {
+        "original_name": "Four Seasons-Centro.Wifi.Terraza",
+        "cleaned_name": "four seasonscentrowifiterraza",
+        "name_length": 29
+    },
+    {
+        "original_name": "Fuenterrabia by FeelFree Rentals",
+        "cleaned_name": "fuenterrabia by feelfree rentals",
+        "name_length": 32
+    },
+    {
+        "original_name": "Gaindegi by FeelFree Rentals",
+        "cleaned_name": "gaindegi by feelfree rentals",
+        "name_length": 28
+    },
+    {
+        "original_name": "Garibay Terrace by FeelFree Rentals",
+        "cleaned_name": "garibay terrace by feelfree rentals",
+        "name_length": 35
+    },
+    {
+        "original_name": "Getaria by Basque Homes",
+        "cleaned_name": "getaria by basque homes",
+        "name_length": 23
+    },
+    {
+        "original_name": "Getaria by FeelFree Rentals",
+        "cleaned_name": "getaria by feelfree rentals",
+        "name_length": 27
+    },
+    {
+        "original_name": "Goxoki - Basque Stay",
+        "cleaned_name": "goxoki  basque stay",
+        "name_length": 19
+    },
+    {
+        "original_name": "GRAN VIA by SWEET HOME SAN SEBASTIAN",
+        "cleaned_name": "gran via by sweet home san sebastian",
+        "name_length": 36
+    },
+    {
+        "original_name": "Guest House Ibaia Et Arramak",
+        "cleaned_name": "guest house ibaia et arramak",
+        "name_length": 28
+    },
+    {
+        "original_name": "Gurtxu Rooms by Sun Sebastián",
+        "cleaned_name": "gurtxu rooms by sun sebastian",
+        "name_length": 29
+    },
+    {
+        "original_name": "Haizea by FeelFree Rentals",
+        "cleaned_name": "haizea by feelfree rentals",
+        "name_length": 26
+    },
+    {
+        "original_name": "Heart of Midtown ⎮⎮ 5 balconies⎮⎮Walk Score 99",
+        "cleaned_name": "heart of midtown  5 balconieswalk score 99",
+        "name_length": 42
+    },
+    {
+        "original_name": "Home in the Heart of Donostia!",
+        "cleaned_name": "home in the heart of donostia",
+        "name_length": 29
+    },
+    {
+        "original_name": "Hotel Anoeta",
+        "cleaned_name": "hotel anoeta",
+        "name_length": 12
+    },
+    {
+        "original_name": "Hotel Antik San Sebastián",
+        "cleaned_name": "hotel antik san sebastian",
+        "name_length": 25
+    },
+    {
+        "original_name": "Hotel Arbaso",
+        "cleaned_name": "hotel arbaso",
+        "name_length": 12
+    },
+    {
+        "original_name": "Hotel Arima & Spa - Small Luxury Hotels",
+        "cleaned_name": "hotel arima  spa  small luxury hotels",
+        "name_length": 37
+    },
+    {
+        "original_name": "Hotel Arrizul Beach",
+        "cleaned_name": "hotel arrizul beach",
+        "name_length": 19
+    },
+    {
+        "original_name": "HOTEL ARRIZUL CATEDRAL",
+        "cleaned_name": "hotel arrizul catedral",
+        "name_length": 22
+    },
+    {
+        "original_name": "Hotel Arrizul Congress",
+        "cleaned_name": "hotel arrizul congress",
+        "name_length": 22
+    },
+    {
+        "original_name": "Hotel Atari",
+        "cleaned_name": "hotel atari",
+        "name_length": 11
+    },
+    {
+        "original_name": "Hotel Avenida",
+        "cleaned_name": "hotel avenida",
+        "name_length": 13
+    },
+    {
+        "original_name": "Hotel Boutique Villa Favorita",
+        "cleaned_name": "hotel boutique villa favorita",
+        "name_length": 29
+    },
+    {
+        "original_name": "Hotel de Londres y de Inglaterra",
+        "cleaned_name": "hotel de londres y de inglaterra",
+        "name_length": 32
+    },
+    {
+        "original_name": "Hotel Distrito Oeste",
+        "cleaned_name": "hotel distrito oeste",
+        "name_length": 20
+    },
+    {
+        "original_name": "Hotel Donosti",
+        "cleaned_name": "hotel donosti",
+        "name_length": 13
+    },
+    {
+        "original_name": "Hotel Ezeiza",
+        "cleaned_name": "hotel ezeiza",
+        "name_length": 12
+    },
+    {
+        "original_name": "Hotel Gudamendi",
+        "cleaned_name": "hotel gudamendi",
+        "name_length": 15
+    },
+    {
+        "original_name": "Hotel Ilunion San Sebastián",
+        "cleaned_name": "hotel ilunion san sebastian",
+        "name_length": 27
+    },
+    {
+        "original_name": "Hotel Luze Boutique San Sebastian",
+        "cleaned_name": "hotel luze boutique san sebastian",
+        "name_length": 33
+    },
+    {
+        "original_name": "Hotel Maria Cristina, a Luxury Collection Hotel, San Sebastian",
+        "cleaned_name": "hotel maria cristina a luxury collection hotel san sebastian",
+        "name_length": 60
+    },
+    {
+        "original_name": "Hotel Monte Ulia",
+        "cleaned_name": "hotel monte ulia",
+        "name_length": 16
+    },
+    {
+        "original_name": "Hotel Okako San Sebastian",
+        "cleaned_name": "hotel okako san sebastian",
+        "name_length": 25
+    },
+    {
+        "original_name": "Hotel Palacio de Aiete",
+        "cleaned_name": "hotel palacio de aiete",
+        "name_length": 22
+    },
+    {
+        "original_name": "Hotel Parma",
+        "cleaned_name": "hotel parma",
+        "name_length": 11
+    },
+    {
+        "original_name": "Hotel SANSEbay",
+        "cleaned_name": "hotel sansebay",
+        "name_length": 14
+    },
+    {
+        "original_name": "Hotel Silken Amara Plaza",
+        "cleaned_name": "hotel silken amara plaza",
+        "name_length": 24
+    },
+    {
+        "original_name": "Hotel Tres Reyes San Sebastián",
+        "cleaned_name": "hotel tres reyes san sebastian",
+        "name_length": 30
+    },
+    {
+        "original_name": "Hotel Trueba",
+        "cleaned_name": "hotel trueba",
+        "name_length": 12
+    },
+    {
+        "original_name": "Hotel Villa Soro",
+        "cleaned_name": "hotel villa soro",
+        "name_length": 16
+    },
+    {
+        "original_name": "Hotel Zaragoza Plaza",
+        "cleaned_name": "hotel zaragoza plaza",
+        "name_length": 20
+    },
+    {
+        "original_name": "Hotel Zinema7",
+        "cleaned_name": "hotel zinema7",
+        "name_length": 13
+    },
+    {
+        "original_name": "Hygge by FeelFree Rentals",
+        "cleaned_name": "hygge by feelfree rentals",
+        "name_length": 25
+    },
+    {
+        "original_name": "Intelier Victoria",
+        "cleaned_name": "intelier victoria",
+        "name_length": 17
+    },
+    {
+        "original_name": "Intelier Villa Katalina",
+        "cleaned_name": "intelier villa katalina",
+        "name_length": 23
+    },
+    {
+        "original_name": "Iraun - Basque Stay",
+        "cleaned_name": "iraun  basque stay",
+        "name_length": 18
+    },
+    {
+        "original_name": "Irenaz Resort Apartamentos",
+        "cleaned_name": "irenaz resort apartamentos",
+        "name_length": 26
+    },
+    {
+        "original_name": "Itsaskirri - Basque Stay",
+        "cleaned_name": "itsaskirri  basque stay",
+        "name_length": 23
+    },
+    {
+        "original_name": "Itsasoa",
+        "cleaned_name": "itsasoa",
+        "name_length": 7
+    },
+    {
+        "original_name": "Jero - Basque Stay",
+        "cleaned_name": "jero  basque stay",
+        "name_length": 17
+    },
+    {
+        "original_name": "Karmengo Ama baskeyrentals",
+        "cleaned_name": "karmengo ama baskeyrentals",
+        "name_length": 26
+    },
+    {
+        "original_name": "Kasa Reina HT LSS00215",
+        "cleaned_name": "kasa reina ht lss00215",
+        "name_length": 22
+    },
+    {
+        "original_name": "Kasa Ronda Nº Registro Gobierno Vasco LSS00131",
+        "cleaned_name": "kasa ronda no registro gobierno vasco lss00131",
+        "name_length": 46
+    },
+    {
+        "original_name": "Kasa Usandizaga",
+        "cleaned_name": "kasa usandizaga",
+        "name_length": 15
+    },
+    {
+        "original_name": "Kimu - Basque Stay",
+        "cleaned_name": "kimu  basque stay",
+        "name_length": 17
+    },
+    {
+        "original_name": "Koba Hostel",
+        "cleaned_name": "koba hostel",
+        "name_length": 11
+    },
+    {
+        "original_name": "Koisi Hostel",
+        "cleaned_name": "koisi hostel",
+        "name_length": 12
+    },
+    {
+        "original_name": "Kontxa Guesthouse",
+        "cleaned_name": "kontxa guesthouse",
+        "name_length": 17
+    },
+    {
+        "original_name": "Koral - Basque Stay",
+        "cleaned_name": "koral  basque stay",
+        "name_length": 18
+    },
+    {
+        "original_name": "Koxka - Basque Stay",
+        "cleaned_name": "koxka  basque stay",
+        "name_length": 18
+    },
+    {
+        "original_name": "Koxtape Apartment by FeelFree Rentals",
+        "cleaned_name": "koxtape apartment by feelfree rentals",
+        "name_length": 37
+    },
+    {
+        "original_name": "Kresala - Basque Stay",
+        "cleaned_name": "kresala  basque stay",
+        "name_length": 20
+    },
+    {
+        "original_name": "La Belle Suite by FeelFree Rentals",
+        "cleaned_name": "la belle suite by feelfree rentals",
+        "name_length": 34
+    },
+    {
+        "original_name": "La Belle Ville by FeelFree Rentals",
+        "cleaned_name": "la belle ville by feelfree rentals",
+        "name_length": 34
+    },
+    {
+        "original_name": "La casa del árbol",
+        "cleaned_name": "la casa del arbol",
+        "name_length": 17
+    },
+    {
+        "original_name": "La Concha Attic by FeelFree Rentals",
+        "cleaned_name": "la concha attic by feelfree rentals",
+        "name_length": 35
+    },
+    {
+        "original_name": "La Concha Suite 2 by FeelFree Rentals",
+        "cleaned_name": "la concha suite 2 by feelfree rentals",
+        "name_length": 37
+    },
+    {
+        "original_name": "La Galería",
+        "cleaned_name": "la galeria",
+        "name_length": 10
+    },
+    {
+        "original_name": "La plaza apartment",
+        "cleaned_name": "la plaza apartment",
+        "name_length": 18
+    },
+    {
+        "original_name": "La Terraza by FeelFree Rentals",
+        "cleaned_name": "la terraza by feelfree rentals",
+        "name_length": 30
+    },
+    {
+        "original_name": "Larroka by FeelFree Rentals",
+        "cleaned_name": "larroka by feelfree rentals",
+        "name_length": 27
+    },
+    {
+        "original_name": "Lasala Plaza Hotel - Adults Only",
+        "cleaned_name": "lasala plaza hotel  adults only",
+        "name_length": 31
+    },
+    {
+        "original_name": "Legazpi Doce Rooms & Suites",
+        "cleaned_name": "legazpi doce rooms  suites",
+        "name_length": 26
+    },
+    {
+        "original_name": "Leonardo Boutique Hotel San Sebastián",
+        "cleaned_name": "leonardo boutique hotel san sebastian",
+        "name_length": 37
+    },
+    {
+        "original_name": "Leonardo Hotel San Sebastián",
+        "cleaned_name": "leonardo hotel san sebastian",
+        "name_length": 28
+    },
+    {
+        "original_name": "Letoh Letoh San Sebastián",
+        "cleaned_name": "letoh letoh san sebastian",
+        "name_length": 25
+    },
+    {
+        "original_name": "limehome San Sebastian Zubieta Kalea",
+        "cleaned_name": "limehome san sebastian zubieta kalea",
+        "name_length": 36
+    },
+    {
+        "original_name": "Livensa Living Studios San Sebastián",
+        "cleaned_name": "livensa living studios san sebastian",
+        "name_length": 36
+    },
+    {
+        "original_name": "Loaldia",
+        "cleaned_name": "loaldia",
+        "name_length": 7
+    },
+    {
+        "original_name": "Luminosa y con terraza: Playa Surf Cine ESS01935",
+        "cleaned_name": "luminosa y con terraza playa surf cine ess01935",
+        "name_length": 47
+    },
+    {
+        "original_name": "LUXURY IN OLD TOWN NEAR BEACH - by www,SanSebastianApartments,es",
+        "cleaned_name": "luxury in old town near beach  by wwwsansebastianapartmentses",
+        "name_length": 61
+    },
+    {
+        "original_name": "Magallanes - Iberorent Apartments",
+        "cleaned_name": "magallanes  iberorent apartments",
+        "name_length": 32
+    },
+    {
+        "original_name": "Mahats - Basque Stay",
+        "cleaned_name": "mahats  basque stay",
+        "name_length": 19
+    },
+    {
+        "original_name": "MARCIAL SUITE Central, modern and NEW.",
+        "cleaned_name": "marcial suite central modern and new",
+        "name_length": 36
+    },
+    {
+        "original_name": "Marina by FeelFree Rentals",
+        "cleaned_name": "marina by feelfree rentals",
+        "name_length": 26
+    },
+    {
+        "original_name": "MARINA by SWEET HOME SAN SEBASTIAN",
+        "cleaned_name": "marina by sweet home san sebastian",
+        "name_length": 34
+    },
+    {
+        "original_name": "Marina Suite by FeelFree Rentals",
+        "cleaned_name": "marina suite by feelfree rentals",
+        "name_length": 32
+    },
+    {
+        "original_name": "Marisol - Self Check-In Guesthouse - Adults only",
+        "cleaned_name": "marisol  self checkin guesthouse  adults only",
+        "name_length": 45
+    },
+    {
+        "original_name": "Marugame by FeelFree Rentals",
+        "cleaned_name": "marugame by feelfree rentals",
+        "name_length": 28
+    },
+    {
+        "original_name": "Maskortxo - Basque Stay",
+        "cleaned_name": "maskortxo  basque stay",
+        "name_length": 22
+    },
+    {
+        "original_name": "Mayor Suite 1 by FeelFree Rentals",
+        "cleaned_name": "mayor suite 1 by feelfree rentals",
+        "name_length": 33
+    },
+    {
+        "original_name": "Mayor Suite 2 by FeelFree Rentals",
+        "cleaned_name": "mayor suite 2 by feelfree rentals",
+        "name_length": 33
+    },
+    {
+        "original_name": "Mayor Suite 3 by FeelFree Rentals",
+        "cleaned_name": "mayor suite 3 by feelfree rentals",
+        "name_length": 33
+    },
+    {
+        "original_name": "Mayor Suite 8 by FeelFree Rentals",
+        "cleaned_name": "mayor suite 8 by feelfree rentals",
+        "name_length": 33
+    },
+    {
+        "original_name": "Menditxo Eder Rooms",
+        "cleaned_name": "menditxo eder rooms",
+        "name_length": 19
+    },
+    {
+        "original_name": "Mercure Monte Igueldo",
+        "cleaned_name": "mercure monte igueldo",
+        "name_length": 21
+    },
+    {
+        "original_name": "Mirakruz Terrace by FeelFree Rentals",
+        "cleaned_name": "mirakruz terrace by feelfree rentals",
+        "name_length": 36
+    },
+    {
+        "original_name": "Miramar Luxurious flat, 3 double rooms, free parking, terrace, completely new",
+        "cleaned_name": "miramar luxurious flat 3 double rooms free parking terrace completely new",
+        "name_length": 73
+    },
+    {
+        "original_name": "Miramon Apartment by BasqueHomes",
+        "cleaned_name": "miramon apartment by basquehomes",
+        "name_length": 32
+    },
+    {
+        "original_name": "Miramon by FeelFree Rentals",
+        "cleaned_name": "miramon by feelfree rentals",
+        "name_length": 27
+    },
+    {
+        "original_name": "Modern & spacious apartment near La Concha Bay",
+        "cleaned_name": "modern  spacious apartment near la concha bay",
+        "name_length": 45
+    },
+    {
+        "original_name": "Modern apartment in Donostia, 75 m² with jacuzzi.",
+        "cleaned_name": "modern apartment in donostia 75 m2 with jacuzzi",
+        "name_length": 47
+    },
+    {
+        "original_name": "Modern Apartment with Spacious Terrace",
+        "cleaned_name": "modern apartment with spacious terrace",
+        "name_length": 38
+    },
+    {
+        "original_name": "Mondrian new ac design lovers near La Concha",
+        "cleaned_name": "mondrian new ac design lovers near la concha",
+        "name_length": 44
+    },
+    {
+        "original_name": "Moneo by FeelFree Rentals",
+        "cleaned_name": "moneo by feelfree rentals",
+        "name_length": 25
+    },
+    {
+        "original_name": "Moon River by FeelFree Rentals",
+        "cleaned_name": "moon river by feelfree rentals",
+        "name_length": 30
+    },
+    {
+        "original_name": "Muinoa 2 by FeelFree Rentals",
+        "cleaned_name": "muinoa 2 by feelfree rentals",
+        "name_length": 28
+    },
+    {
+        "original_name": "Muinoa 5 by FeelFree Rentals",
+        "cleaned_name": "muinoa 5 by feelfree rentals",
+        "name_length": 28
+    },
+    {
+        "original_name": "Mur by Feelfree Rentals",
+        "cleaned_name": "mur by feelfree rentals",
+        "name_length": 23
+    },
+    {
+        "original_name": "Newly opened Mirakruz Suites with AC by Santiago",
+        "cleaned_name": "newly opened mirakruz suites with ac by santiago",
+        "name_length": 48
+    },
+    {
+        "original_name": "NH Collection San Sebastián Aranzazu",
+        "cleaned_name": "nh collection san sebastian aranzazu",
+        "name_length": 36
+    },
+    {
+        "original_name": "Nobu Hotel San Sebastián",
+        "cleaned_name": "nobu hotel san sebastian",
+        "name_length": 24
+    },
+    {
+        "original_name": "Numad Studios",
+        "cleaned_name": "numad studios",
+        "name_length": 13
+    },
+    {
+        "original_name": "Ocean Terraza Iberorent Apartments",
+        "cleaned_name": "ocean terraza iberorent apartments",
+        "name_length": 34
+    },
+    {
+        "original_name": "Oiasso by FeelFree Rentals",
+        "cleaned_name": "oiasso by feelfree rentals",
+        "name_length": 26
+    },
+    {
+        "original_name": "Olarain",
+        "cleaned_name": "olarain",
+        "name_length": 7
+    },
+    {
+        "original_name": "Olatu by Basque Homes",
+        "cleaned_name": "olatu by basque homes",
+        "name_length": 21
+    },
+    {
+        "original_name": "Olatu by FeelFree Rentals",
+        "cleaned_name": "olatu by feelfree rentals",
+        "name_length": 25
+    },
+    {
+        "original_name": "One Shot Tabakalera House",
+        "cleaned_name": "one shot tabakalera house",
+        "name_length": 25
+    },
+    {
+        "original_name": "Opari - Basque Stay",
+        "cleaned_name": "opari  basque stay",
+        "name_length": 18
+    },
+    {
+        "original_name": "Ordulari - Basque Stay",
+        "cleaned_name": "ordulari  basque stay",
+        "name_length": 21
+    },
+    {
+        "original_name": "Ortzimuga - Basque Stay",
+        "cleaned_name": "ortzimuga  basque stay",
+        "name_length": 22
+    },
+    {
+        "original_name": "PAKELEKU",
+        "cleaned_name": "pakeleku",
+        "name_length": 8
+    },
+    {
+        "original_name": "Pension Alameda",
+        "cleaned_name": "pension alameda",
+        "name_length": 15
+    },
+    {
+        "original_name": "Pensión Amaiur",
+        "cleaned_name": "pension amaiur",
+        "name_length": 14
+    },
+    {
+        "original_name": "Pensión Ametzagaña",
+        "cleaned_name": "pension ametzagana",
+        "name_length": 18
+    },
+    {
+        "original_name": "Pension Anoeta",
+        "cleaned_name": "pension anoeta",
+        "name_length": 14
+    },
+    {
+        "original_name": "Pensión Arroka",
+        "cleaned_name": "pension arroka",
+        "name_length": 14
+    },
+    {
+        "original_name": "Pensión Artea",
+        "cleaned_name": "pension artea",
+        "name_length": 13
+    },
+    {
+        "original_name": "Pension Aussie Guesthouse",
+        "cleaned_name": "pension aussie guesthouse",
+        "name_length": 25
+    },
+    {
+        "original_name": "Pensión Donostiarra",
+        "cleaned_name": "pension donostiarra",
+        "name_length": 19
+    },
+    {
+        "original_name": "Pension El Puerto",
+        "cleaned_name": "pension el puerto",
+        "name_length": 17
+    },
+    {
+        "original_name": "Pensión Gárate",
+        "cleaned_name": "pension garate",
+        "name_length": 14
+    },
+    {
+        "original_name": "Pensión Irune by Vivere Stays",
+        "cleaned_name": "pension irune by vivere stays",
+        "name_length": 29
+    },
+    {
+        "original_name": "Pensión Iturriza",
+        "cleaned_name": "pension iturriza",
+        "name_length": 16
+    },
+    {
+        "original_name": "Pension Izar Bat Guesthouse",
+        "cleaned_name": "pension izar bat guesthouse",
+        "name_length": 27
+    },
+    {
+        "original_name": "Pensión Koxka",
+        "cleaned_name": "pension koxka",
+        "name_length": 13
+    },
+    {
+        "original_name": "Pensión Koxka Bi",
+        "cleaned_name": "pension koxka bi",
+        "name_length": 16
+    },
+    {
+        "original_name": "Pension Kursaal",
+        "cleaned_name": "pension kursaal",
+        "name_length": 15
+    },
+    {
+        "original_name": "Pension MD",
+        "cleaned_name": "pension md",
+        "name_length": 10
+    },
+    {
+        "original_name": "Pension Ondarra Autocheck-In",
+        "cleaned_name": "pension ondarra autocheckin",
+        "name_length": 27
+    },
+    {
+        "original_name": "Pensión San Jerónimo",
+        "cleaned_name": "pension san jeronimo",
+        "name_length": 20
+    },
+    {
+        "original_name": "Pensión San Martin",
+        "cleaned_name": "pension san martin",
+        "name_length": 18
+    },
+    {
+        "original_name": "Pensión Santa Clara",
+        "cleaned_name": "pension santa clara",
+        "name_length": 19
+    },
+    {
+        "original_name": "Pensión Sarriegi",
+        "cleaned_name": "pension sarriegi",
+        "name_length": 16
+    },
+    {
+        "original_name": "Pensión Urkia",
+        "cleaned_name": "pension urkia",
+        "name_length": 13
+    },
+    {
+        "original_name": "Pensión Urumea",
+        "cleaned_name": "pension urumea",
+        "name_length": 14
+    },
+    {
+        "original_name": "Playa de La Concha 4 by FeelFree Rentals",
+        "cleaned_name": "playa de la concha 4 by feelfree rentals",
+        "name_length": 40
+    },
+    {
+        "original_name": "Playa de La Concha 7 by FeelFree Rentals",
+        "cleaned_name": "playa de la concha 7 by feelfree rentals",
+        "name_length": 40
+    },
+    {
+        "original_name": "Playa de La Concha 9 by FeelFree Rentals",
+        "cleaned_name": "playa de la concha 9 by feelfree rentals",
+        "name_length": 40
+    },
+    {
+        "original_name": "Playa Gros - IB. Apartments",
+        "cleaned_name": "playa gros  ib apartments",
+        "name_length": 25
+    },
+    {
+        "original_name": "Plaza Consti, Heart of the old town",
+        "cleaned_name": "plaza consti heart of the old town",
+        "name_length": 34
+    },
+    {
+        "original_name": "Plaza Pio XII",
+        "cleaned_name": "plaza pio xii",
+        "name_length": 13
+    },
+    {
+        "original_name": "Precioso Piso Céntrico Con Aparcamiento Gratuito",
+        "cleaned_name": "precioso piso centrico con aparcamiento gratuito",
+        "name_length": 48
+    },
+    {
+        "original_name": "Prime Location Modern Stay",
+        "cleaned_name": "prime location modern stay",
+        "name_length": 26
+    },
+    {
+        "original_name": "Recoleta Downtown Suite by Beauty Rentals",
+        "cleaned_name": "recoleta downtown suite by beauty rentals",
+        "name_length": 41
+    },
+    {
+        "original_name": "Residencia Universitaria Resa Manuel Agud Querol",
+        "cleaned_name": "residencia universitaria resa manuel agud querol",
+        "name_length": 48
+    },
+    {
+        "original_name": "Room Mate Gorka",
+        "cleaned_name": "room mate gorka",
+        "name_length": 15
+    },
+    {
+        "original_name": "SALABERRIA APARTMENT with private garage",
+        "cleaned_name": "salaberria apartment with private garage",
+        "name_length": 40
+    },
+    {
+        "original_name": "San Bartolome Bay - Iberorent Apartments",
+        "cleaned_name": "san bartolome bay  iberorent apartments",
+        "name_length": 39
+    },
+    {
+        "original_name": "San Francisco 2 by FeelFree Rentals",
+        "cleaned_name": "san francisco 2 by feelfree rentals",
+        "name_length": 35
+    },
+    {
+        "original_name": "San Juan Guesthouse",
+        "cleaned_name": "san juan guesthouse",
+        "name_length": 19
+    },
+    {
+        "original_name": "San Marcial by Basque Homes",
+        "cleaned_name": "san marcial by basque homes",
+        "name_length": 27
+    },
+    {
+        "original_name": "San Sebastián DOT Rooms",
+        "cleaned_name": "san sebastian dot rooms",
+        "name_length": 23
+    },
+    {
+        "original_name": "San Sebastián Hideaway",
+        "cleaned_name": "san sebastian hideaway",
+        "name_length": 22
+    },
+    {
+        "original_name": "Sancho el Sabio",
+        "cleaned_name": "sancho el sabio",
+        "name_length": 15
+    },
+    {
+        "original_name": "Santa Maria by FeelFree Rentals",
+        "cleaned_name": "santa maria by feelfree rentals",
+        "name_length": 31
+    },
+    {
+        "original_name": "Sausalito - Iberorent Apartments",
+        "cleaned_name": "sausalito  iberorent apartments",
+        "name_length": 31
+    },
+    {
+        "original_name": "Sea Views from 4 Balconies Walk Score 90",
+        "cleaned_name": "sea views from 4 balconies walk score 90",
+        "name_length": 40
+    },
+    {
+        "original_name": "Sercotel Codina",
+        "cleaned_name": "sercotel codina",
+        "name_length": 15
+    },
+    {
+        "original_name": "Sercotel Hotel Europa",
+        "cleaned_name": "sercotel hotel europa",
+        "name_length": 21
+    },
+    {
+        "original_name": "Simone by FeelFree Rentals",
+        "cleaned_name": "simone by feelfree rentals",
+        "name_length": 26
+    },
+    {
+        "original_name": "Singular y espacioso apartamento Ondarreta Beach",
+        "cleaned_name": "singular y espacioso apartamento ondarreta beach",
+        "name_length": 48
+    },
+    {
+        "original_name": "Smart Urban by People Rentals",
+        "cleaned_name": "smart urban by people rentals",
+        "name_length": 29
+    },
+    {
+        "original_name": "Soraluxe by FeelFree Rentals",
+        "cleaned_name": "soraluxe by feelfree rentals",
+        "name_length": 28
+    },
+    {
+        "original_name": "Soroa 6 by FeelFree Rentals",
+        "cleaned_name": "soroa 6 by feelfree rentals",
+        "name_length": 27
+    },
+    {
+        "original_name": "Spacious Central Old Town Apartment",
+        "cleaned_name": "spacious central old town apartment",
+        "name_length": 35
+    },
+    {
+        "original_name": "Surf Beach Hideaway",
+        "cleaned_name": "surf beach hideaway",
+        "name_length": 19
+    },
+    {
+        "original_name": "Surfing Etxea - Surf Hostel",
+        "cleaned_name": "surfing etxea  surf hostel",
+        "name_length": 26
+    },
+    {
+        "original_name": "The Passage Apartments",
+        "cleaned_name": "the passage apartments",
+        "name_length": 22
+    },
+    {
+        "original_name": "The Social Hub San Sebastián",
+        "cleaned_name": "the social hub san sebastian",
+        "name_length": 28
+    },
+    {
+        "original_name": "Txindoki by Basque Homes",
+        "cleaned_name": "txindoki by basque homes",
+        "name_length": 24
+    },
+    {
+        "original_name": "UBA Hostel",
+        "cleaned_name": "uba hostel",
+        "name_length": 10
+    },
+    {
+        "original_name": "Udaberri by FeelFree Rentals",
+        "cleaned_name": "udaberri by feelfree rentals",
+        "name_length": 28
+    },
+    {
+        "original_name": "Ulia Apartments- Garden Boutique",
+        "cleaned_name": "ulia apartments garden boutique",
+        "name_length": 31
+    },
+    {
+        "original_name": "Uma Suites Ondarreta",
+        "cleaned_name": "uma suites ondarreta",
+        "name_length": 20
+    },
+    {
+        "original_name": "URBAIA ROOMS",
+        "cleaned_name": "urbaia rooms",
+        "name_length": 12
+    },
+    {
+        "original_name": "Urbieta 2 by FeelFree Rentals",
+        "cleaned_name": "urbieta 2 by feelfree rentals",
+        "name_length": 29
+    },
+    {
+        "original_name": "Urbieta by Basque Homes",
+        "cleaned_name": "urbieta by basque homes",
+        "name_length": 23
+    },
+    {
+        "original_name": "Urumea 1",
+        "cleaned_name": "urumea 1",
+        "name_length": 8
+    },
+    {
+        "original_name": "Urumea 3",
+        "cleaned_name": "urumea 3",
+        "name_length": 8
+    },
+    {
+        "original_name": "Usandizaga 4",
+        "cleaned_name": "usandizaga 4",
+        "name_length": 12
+    },
+    {
+        "original_name": "Villa Alimar - Basque Stay",
+        "cleaned_name": "villa alimar  basque stay",
+        "name_length": 25
+    },
+    {
+        "original_name": "Villa Baena by FeelFree Rentals",
+        "cleaned_name": "villa baena by feelfree rentals",
+        "name_length": 31
+    },
+    {
+        "original_name": "Villa Birdie Boutique - Adults Only",
+        "cleaned_name": "villa birdie boutique  adults only",
+        "name_length": 34
+    },
+    {
+        "original_name": "Villa Don Juan",
+        "cleaned_name": "villa don juan",
+        "name_length": 14
+    },
+    {
+        "original_name": "Villa Eugenia Boutique Hotel",
+        "cleaned_name": "villa eugenia boutique hotel",
+        "name_length": 28
+    },
+    {
+        "original_name": "Villa Lanperna",
+        "cleaned_name": "villa lanperna",
+        "name_length": 14
+    },
+    {
+        "original_name": "VILLA OASIS by Prim Home Rentals",
+        "cleaned_name": "villa oasis by prim home rentals",
+        "name_length": 32
+    },
+    {
+        "original_name": "Wecamp San Sebastián",
+        "cleaned_name": "wecamp san sebastian",
+        "name_length": 20
+    },
+    {
+        "original_name": "Welcome Gros Hotel",
+        "cleaned_name": "welcome gros hotel",
+        "name_length": 18
+    },
+    {
+        "original_name": "Xuloss Apartments 1",
+        "cleaned_name": "xuloss apartments 1",
+        "name_length": 19
+    },
+    {
+        "original_name": "ZABALETA by SWEET HOME SAN SEBASTIAN",
+        "cleaned_name": "zabaleta by sweet home san sebastian",
+        "name_length": 36
+    },
+    {
+        "original_name": "Zenit Convento San Martin",
+        "cleaned_name": "zenit convento san martin",
+        "name_length": 25
+    },
+    {
+        "original_name": "Zenit San Sebastián",
+        "cleaned_name": "zenit san sebastian",
+        "name_length": 19
+    },
+    {
+        "original_name": "Zinema - Basque Stay",
+        "cleaned_name": "zinema  basque stay",
+        "name_length": 19
+    },
+    {
+        "original_name": "Zinemaldi Suite by FeelFree Rentals",
+        "cleaned_name": "zinemaldi suite by feelfree rentals",
+        "name_length": 35
+    },
+    {
+        "original_name": "Zubieta by Basque Homes",
+        "cleaned_name": "zubieta by basque homes",
+        "name_length": 23
+    },
+    {
+        "original_name": "Zurriola Loft by FeelFree Rentals",
+        "cleaned_name": "zurriola loft by feelfree rentals",
+        "name_length": 33
+    }
+]
